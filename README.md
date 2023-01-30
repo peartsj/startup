@@ -24,3 +24,7 @@ This is now the modification from the github website. I was previously unaware t
 
 I learned a *lot* about formatting here on github and things I never knew befgore about how to resolve conflicts in code.  
 I've never run into that problem before personally, but it was definitely instructive because I definitely can see it happening in the future.  
+
+
+18.221.53.194
+ssh -i SpencerP-KeyPair1.pem ubuntu@18.221.53.194
