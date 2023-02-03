@@ -28,3 +28,5 @@ I've never run into that problem before personally, but it was definitely instru
 
 18.221.53.194  
 ssh -i SpencerP-KeyPair1.pem ubuntu@18.221.53.194  
+  
+**https://spennysite.click**  
