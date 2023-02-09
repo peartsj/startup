@@ -30,3 +30,8 @@ I've never run into that problem before personally, but it was definitely instru
 ssh -i SpencerP-KeyPair1.pem ubuntu@18.221.53.194  
   
 **https://spennysite.click**  
+  
+I learned a lot from the simon application, lots about the interaction between different html applications  
+It was really interesting to see how to add links to other html pages as well as outside websites.  
+The rest just seemd like formatting notes which I've seen in other locations, but interesting nonetheless  
+Overall I can see how this will eventually become the full fledged simon machine as we learn more and more about in this class.  
