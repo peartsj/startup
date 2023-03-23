@@ -91,3 +91,9 @@ Which of the these is not a vaild way to include Javascript in HTML? <javascript
   Which is a DNS subdomain? c260.cs.byu.edu
   To point to another DNS record, you should use the following DNS record type: CNAME
   
+  
+Simon Notes 3/22:  
+- Node.js was super useful in providing a service backbone that I don't need to entirely understand  
+- Express was also useful, and even though I don't entirely understand how it fits into the system  
+- index.js was a good resource to look through to understand the functions that are provided through  
+- app.use and app.listen can both definitely be used in my startup application  
