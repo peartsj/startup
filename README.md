@@ -97,3 +97,9 @@ Simon Notes 3/22:
 - Express was also useful, and even though I don't entirely understand how it fits into the system  
 - index.js was a good resource to look through to understand the functions that are provided through  
 - app.use and app.listen can both definitely be used in my startup application  
+
+Simon Notes 3/24:
+- username and password are simonsite and simonsitepassword
+- database is super convenient and I love the UI
+- love that I don't have to host my own database
+
