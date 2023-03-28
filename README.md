@@ -97,9 +97,14 @@ Simon Notes 3/22:
 - Express was also useful, and even though I don't entirely understand how it fits into the system  
 - index.js was a good resource to look through to understand the functions that are provided through  
 - app.use and app.listen can both definitely be used in my startup application  
-
+  
 Simon Notes 3/24:
 - username and password are simonsite and simonsitepassword
 - database is super convenient and I love the UI
 - love that I don't have to host my own database
 
+Simon Notes 3/27:
+- simon does a perfect implementation of a login and database feature, that already works with the mongo servers
+- I like how you can't move past the login without logging in and being registered
+- I can use the other html fileas and js files to implement the same in my own startup file
+- mongo is super easy to use here and makes a big difference  
