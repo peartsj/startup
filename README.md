@@ -101,8 +101,8 @@ Simon Notes 3/22:
 Simon Notes 3/24:
 - username and password are simonsite and simonsitepassword
 - database is super convenient and I love the UI
-- love that I don't have to host my own database
-
+- love that I don't have to host my own database  
+  
 Simon Notes 3/27:
 - simon does a perfect implementation of a login and database feature, that already works with the mongo servers
 - I like how you can't move past the login without logging in and being registered
