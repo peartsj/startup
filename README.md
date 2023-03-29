@@ -108,3 +108,9 @@ Simon Notes 3/27:
 - I like how you can't move past the login without logging in and being registered
 - I can use the other html fileas and js files to implement the same in my own startup file
 - mongo is super easy to use here and makes a big difference  
+
+  Simon Notes 3/29:
+  - The peer proxy file is where the majority of the useful code from this Simon project is located
+  - The webserver could be interesting for potential functionality with our trivia game
+  - Having ongoing high scores could be super useful, or we could use it to just alert people who else is playing
+  - Also use code found in play.js and other play files to implement the websocket work on a different page
