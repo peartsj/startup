@@ -114,3 +114,12 @@ Simon Notes 3/27:
   - The webserver could be interesting for potential functionality with our trivia game
   - Having ongoing high scores could be super useful, or we could use it to just alert people who else is playing
   - Also use code found in play.js and other play files to implement the websocket work on a different page
+  
+  Simon Notes 4/18:
+  - Using a React Framework seems to require an entire rework of the application to be useful and to see any benefit
+  - Create a react template by running "npx create-react-app template-react" in the project folder
+  - Convert js files to jsx files
+  - Move template files, switch to react bootstrap, and populate App.jsx
+  - Create view components, create the router, and convert to react components
+  - ![simonReactProjectStructure](https://user-images.githubusercontent.com/49263156/232924875-71c4622f-a362-4547-960a-e6e43feaa457.jpg)
+
