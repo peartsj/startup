@@ -133,4 +133,5 @@ Simon Notes 3/27:
   
 # React Notes
 - Really cool to be able to return whole elements using js functions
-- 
+- React also has a cool way of being able to easily update text to reflect other parts of the script. This would have been super helpful to have during parts of the trivia application we made
+- I'm most impressed by React's ability to dynamically react to anything that happens in the application, with either color change, text change, or even entire element changes and that feels extremely versatile
