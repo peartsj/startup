@@ -130,3 +130,7 @@ Simon Notes 3/27:
   - We also added the database to our code to score highscores and and keep track of users. The leaderboard is now fully functional, the game can get new questions whenever needed, and it parses the data and randomly displays the answers. 
   - We also added peer proxy code to let other players know when others are playing and when they score. 
   - Aside from that, we just polished up everything else in the application and did our best to improve the experience of our application and allow for fun trivia competitions!
+  
+#React Notes
+- Really cool to be able to return whole elements using js functions
+- 
