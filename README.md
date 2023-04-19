@@ -131,6 +131,6 @@ Simon Notes 3/27:
   - We also added peer proxy code to let other players know when others are playing and when they score. 
   - Aside from that, we just polished up everything else in the application and did our best to improve the experience of our application and allow for fun trivia competitions!
   
-#React Notes
+# React Notes
 - Really cool to be able to return whole elements using js functions
 - 
