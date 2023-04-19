@@ -123,4 +123,10 @@ Simon Notes 3/27:
   - Create view components, create the router, and convert to react components
   ![simonReactProjectStructure](https://user-images.githubusercontent.com/49263156/232924875-71c4622f-a362-4547-960a-e6e43feaa457.jpg)
   - React seems like a very useful structure to use with an application, but I feel like it would be better if used right from the get go, instead of needing to convert an entire application after already building a working product. I can see the usefulness but I would like to have built my startup application using it from the ground up. Overall its a very cool framework and if I ever do build a future application I will definitely start out using the React Framework.
-
+  
+  Startup Service deliverable Notes 4/18:
+  - We added a lot of the functionality of the application with this version of our code
+  - We specifically added the ability to pull new trivia questions from a helpful API and load them into the game whenever needed
+  - We also added the database to our code to score highscores and and keep track of users. The leaderboard is now fully functional, the game can get new questions whenever needed, and it parses the data and randomly displays the answers. 
+  - We also added peer proxy code to let other players know when others are playing and when they score. 
+  - Aside from that, we just polished up everything else in the application and did our best to improve the experience of our application and allow for fun trivia competitions!
