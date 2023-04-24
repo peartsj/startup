@@ -135,3 +135,12 @@ Simon Notes 3/27:
 - Really cool to be able to return whole elements using js functions
 - React also has a cool way of being able to easily update text to reflect other parts of the script. This would have been super helpful to have during parts of the trivia application we made
 - I'm most impressed by React's ability to dynamically react to anything that happens in the application, with either color change, text change, or even entire element changes and that feels extremely versatile
+
+# Final Notes
+- Http status code :  1xx informational, 2xx success 200 ok, 3xx redirection, 4xx client error 400 bad request, 5xx server error
+- Standard http headers: Content-type, Host, cookie, more
+- Cookies allow a server to store data on the client
+- Websocket enables peer to peer communication instead of client to server
+- Purpose of JSX: To inject html into javascript, to componentalize your html, allow for composability of your html
+- Fetch works front end or backend
+- Linux Daemon: Exectues independent of a user, starts when a computer is rebooted, can fork other processes, PM2 is an example of one
